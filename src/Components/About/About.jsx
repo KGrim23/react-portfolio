@@ -44,8 +44,8 @@ export const About = () => {
         </div>
         <hr/>
         <div className="about-achievement">
-            <h1>3</h1>
-            <p>HAPPY CLIENTS</p>
+            <h1>1</h1>
+            <p>MVP</p>
         </div>
 
 
